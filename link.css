@@ -1,0 +1,145 @@
+ {
+    margin: 0%; 
+    padding: 0%;   
+}
+nav{
+    background-color: bisque;
+    height: 120px; 
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.home{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-evenly;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+}
+ .logo {
+    margin-left: 40px;
+    align-items: center; 
+ }
+ .nice img{
+    width: 600px;
+    height: 400px;   
+    padding-left: 30px;
+}
+ .button button{
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(17, 233, 187);
+    border: 1px solid   rgb(17, 233, 187);
+    color: white;
+} 
+.button{
+    padding-top: 20px;
+    
+}
+.sect{
+    padding-left: 30px;
+    margin:70px ;
+    /* margin-bottom: 10px; */
+}
+.para{
+    font-size: large;
+}
+.div4{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 4%;
+    height: 200px;
+    padding-right: 80px;
+} 
+.sec{
+    display: flex;
+    justify-content: space-evenly;
+     margin: 70px;
+    padding: 50px; 
+}
+.para{
+    font-size: larger;
+}
+.ser{
+    font-size: 200%;
+}
+
+.section3 img{
+    height: 350px;
+    width: 300px;
+}
+
+.section3{
+    display: flex;
+    justify-content:space-evenly;
+  
+}
+.good{
+    font-size: 280%;
+    font-weight: bolder;
+}
+
+.van{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    /* gap: 40px; */
+    height: 400px;
+    background-color: bisque;
+    margin-top:300px ;
+
+    
+}
+.logos{
+    margin-left: 600px;
+}
+.loss{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 600px;
+    /* padding: 20px; */
+    /* width: ; */
+
+}
+.right{
+    display: flex;
+    align-items: center;
+    margin-left: 600px;
+    padding: 30px;
+}
+.pos{
+    position: relative;
+}
+.rel{
+    position: absolute;
+    /* bottom: -110px; */
+    top: 320px;
+    padding-left: 20px;
+    color: bisque;
+}
+.loss img{
+    margin: 10px;
+    font-size: large;
+    /* border: 1px solid gray;
+    border-radius: 250%; */
+    width: 20px;
+    height: 20px;
+}
+.hap:hover{
+    background-color: lightskyblue;
+}
+.hap{
+    border: 1px solid gray;
+    border-radius: 250%; 
+    width: 40px;
+    height: 40px;
+}
+   */
